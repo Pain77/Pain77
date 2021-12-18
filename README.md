@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Know+Pain...;Know+God!!!;Learning++HTML,+and+JavaScript." alt="adii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Know+Pain...;Know+God!!!" alt="adii">
 </p>
 
 - 🩹 I’m tired of **Living**.
