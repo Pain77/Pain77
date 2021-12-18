@@ -26,6 +26,16 @@
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
+------
+
+### Spotify Music
+
+<p align="center">
+  <a href="https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8?si=rozsZh1URr2dsYBUsMVYhg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
+
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-readme-stats.vercel.app/api?username=Pain77&theme=tokyonight&show_icons=true" /></a>
 </p>
