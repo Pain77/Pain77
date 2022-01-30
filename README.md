@@ -49,17 +49,28 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/Pain77"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pain77&theme=tokyonight&layout=compact" /></a>
+  <a href="https://github.com/Pain77"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pain77&theme=solarized_dark" /><a>
 </p>
   
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
+  
+<p align="center">
+  <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar" /><a>
+</p>
 
+### My Team
+<a href="https://github.com/D4RKW1TCH"><img src="https://github.com/D4RKW1TCH.png?size=100" width="100" height="100"></a> | <a href="https://github.com/well300"><img src="https://github.com/well300.png?size=100" width="100" height="100"></a> | <a href="https://github.com/SarumanSama"><img src="https://github.com/SarumanSama.png?size=100" width="100" height="100"></a> 
+----|----|----
+[The_Dark_Witch](https://github.com/D4RKW1TCH) | [00300](http://github.com/well300) | [SarumanSama](http://github.com/SarumanSama)
+Partner | Bestie | Bestie   
+    
 <p align="center">
 <a href="https://youtube.com/channel/UCfKevXzC4gXXnZfb01vRCfQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-E2311A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 <a href="senpai2578@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=919662713165&text=♨️+ʟɪꜰᴇ ꜱᴜᴄᴋꜱ™" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://instagram.com/on11._.sama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ___ 
