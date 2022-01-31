@@ -58,13 +58,7 @@
   
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar" /><a>
-</p>
-
-### My Team
-<a href="https://github.com/D4RKW1TCH"><img src="https://github.com/D4RKW1TCH.png?size=100" width="100" height="100"></a> | <a href="https://github.com/well300"><img src="https://github.com/well300.png?size=100" width="100" height="100"></a> | <a href="https://github.com/SarumanSama"><img src="https://github.com/SarumanSama.png?size=100" width="100" height="100"></a> 
-----|----|----
-[Dark Witch](https://github.com/D4RKW1TCH) | [00300](http://github.com/well300) | [SarumanSama](http://github.com/SarumanSama)
-Partner | Bestie | Bestie   
+</p>  
     
 <p align="center">
 <a href="https://youtube.com/channel/UCfKevXzC4gXXnZfb01vRCfQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-E2311A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
