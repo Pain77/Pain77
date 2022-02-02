@@ -13,7 +13,7 @@
 
 - 🔭 Looking for a way to **Isekai**.
 
-- 📁 A newbie working on [`WhatsappBot`](https://www.chatbot.com/) 
+- 📁 Currently working on [`WhatsappBot`](https://www.chatbot.com/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
