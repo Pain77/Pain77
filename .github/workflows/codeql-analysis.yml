@@ -103,7 +103,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: https://anilist.co/user/On11sama/
+          plugin_anilist_user: On11sama
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
