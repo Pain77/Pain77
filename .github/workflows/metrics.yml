@@ -25,7 +25,7 @@ jobs:
           user: Pain77
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Calcutta
+          config_timezone: Asia/Kolkata
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
