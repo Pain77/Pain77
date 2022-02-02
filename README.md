@@ -2,11 +2,7 @@
 <h1 align="center">やれ やれ 𝐈’𝐦 𝐏-𝐀-𝐈-𝐍 </h1>
 
 <p align="center">
-<img src="https://c.tenor.com/sUQppDbb5_QAAAAC/pain-naruto.gif" width="100%" alt="API Giphy logo"/>
-</p>
-
-<p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Accept+Pain...;Know+Pain...;Feel+Pain..." alt="Pain">
+<img src="https://c.tenor.com/lkD8_3NfVigAAAAC/naruto-alone.gif" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🩹 I’m tired of **Living**.
