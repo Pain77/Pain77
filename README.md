@@ -53,6 +53,10 @@
 </p> 
     
 <p align="center">
+  <a href="https://github.com/Pain77"><img src="/github-metrics.svg" /><a>
+</p>
+    
+<p align="center">
 <a href="https://youtube.com/channel/UCfKevXzC4gXXnZfb01vRCfQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-E2311A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 <a href="senpai2578@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=919662713165&text=♨️+ʟɪꜰᴇ ꜱᴜᴄᴋꜱ™" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
