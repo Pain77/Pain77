@@ -53,12 +53,12 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-  
-<p align="center">
   <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar" /><a>
 </p>  
+    
+<p align="center">
+  <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p> 
     
 <p align="center">
 <a href="https://youtube.com/channel/UCfKevXzC4gXXnZfb01vRCfQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-E2311A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
