@@ -53,10 +53,6 @@
 </p>
     
 <p align="center">
-  <a href="https://github.com/Pain77"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pain77&theme=solarized_dark" /><a>
-</p>
-    
-<p align="center">
   <a href="https://github.com/Pain77"><img src="/github-metrics.svg" /><a>
 </p> 
     
