@@ -53,12 +53,8 @@
 </p>
   
 <p align="center">
-  <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar" /><a>
+  <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" /><a>
 </p>  
-    
-<p align="center">
-  <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" /><a>
-</p>
     
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
