@@ -56,6 +56,8 @@
   <a href="https://github.com/Pain77"><img src="https://metrics.lecoq.io/Pain77?template=classic&isocalendar=1&languages=1&anilist=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&anilist.user=.user.login&config.timezone=Asia%2FCalcutta" /><a>
 </p>
     
+![Metrics](/github-metrics.svg)    
+    
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p> 
