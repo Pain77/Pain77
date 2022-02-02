@@ -51,8 +51,8 @@
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pain77&theme=solarized_dark" /><a>
 </p>
-    
-![Metrics](/github-metrics.svg)    
+       
+![Metrics](/github-metrics.svg)
     
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
