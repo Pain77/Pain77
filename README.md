@@ -51,12 +51,3 @@
 <p align="center">
   <a href="https://github.com/Pain77"><img src="https://github-profile-trophy.vercel.app/?username=Pain77&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
-    
-<p align="center">
-<a href="https://youtube.com/channel/UCfKevXzC4gXXnZfb01vRCfQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-E2311A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
-<a href="senpai2578@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=919662713165&text=♨️+ʟɪꜰᴇ ꜱᴜᴄᴋꜱ™" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://instagram.com/on11._.sama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-___ 
