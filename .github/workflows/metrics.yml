@@ -27,7 +27,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_anilist: yes
-          plugin_anilist_user: .PA1NS4M4.login
+          plugin_anilist_user: https://anilist.co/user/PA1NS4M4/
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 4
