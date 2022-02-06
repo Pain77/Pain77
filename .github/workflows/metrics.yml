@@ -26,6 +26,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
@@ -39,6 +41,7 @@ jobs:
           plugin_anilist_user: PA1NS4M4
           plugin_followup: yes
           plugin_followup_sections: repositories
+          plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
