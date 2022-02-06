@@ -56,19 +56,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://github.com/Pain77
           plugin_skyline: yes
           plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 90
+          plugin_skyline_frames: 60
           plugin_skyline_quality: 1.0
           plugin_skyline_year: current-year
-          plugin_support: yes
           plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
