@@ -59,6 +59,6 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_compatibility: yes
           plugin_skyline_frames: 90
-          plugin_skyline_quality: 2.0
+          plugin_skyline_quality: 1.0
           plugin_skyline_year: current-year
           plugin_traffic: yes
