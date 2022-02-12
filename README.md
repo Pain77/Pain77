@@ -48,6 +48,3 @@
   <a href="https://github.com/Pain77"><img src="/github-metrics.svg" /><a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Pain77"><img src="https://wallpapercave.com/uwp/uwp1995296.png" /><a>
-</p>
