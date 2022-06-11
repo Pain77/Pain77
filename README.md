@@ -1,6 +1,8 @@
 ### ᴛʜɪꜱ ᴡᴏʀʟᴅ ꜱʜᴀʟʟ ᴋɴᴏᴡ ᴘᴀɪɴ 👁‍🗨
 <h1 align="center">やれ やれ 𝐈’𝐦 𝐏-𝐀-𝐈-𝐍 </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pain77&label=Profile%20Views&color=0e75b6&style=flat" alt="Pain" /> </p>
+
 <p align="center">
 <img src="https://c.tenor.com/lkD8_3NfVigAAAAC/naruto-alone.gif" width="100%" alt="API Giphy logo"/>
 </p>
