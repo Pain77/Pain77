@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pain77&label=Profile%20Views&color=0e75b6&style=flat" alt="Pain" /> </p>
 
 <p align="center">
-<img src="https://c.tenor.com/lkD8_3NfVigAAAAC/naruto-alone.gif" width="100%" alt="API Giphy logo"/>
+<img src="https://c.tenor.com/DRx9mYU-JOQAAAAC/sad-anime-drink-alone.gif" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🩹 I’m tired of **Living**.
