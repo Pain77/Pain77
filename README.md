@@ -33,7 +33,7 @@
 ### Spotify Music
 
 <p align="center">
-  <a href="https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8?si=rozsZh1URr2dsYBUsMVYhg" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31dkzpbxnhgnx7iqi4nnjf64f2zq&cover_image=true&theme=default" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://github.com/Pain77"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31dkzpbxnhgnx7iqi4nnjf64f2zq&cover_image=true&theme=default" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
