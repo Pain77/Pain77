@@ -38,7 +38,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: pa1ns4m4
+          plugin_anilist_user: PA1NS4M4
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
