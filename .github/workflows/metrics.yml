@@ -58,7 +58,7 @@ jobs:
           plugin_notable_from: organization
           plugin_skyline: yes
           plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 90
+          plugin_skyline_frames: 60
           plugin_skyline_quality: 1.0
           plugin_skyline_year: current-year
           plugin_traffic: yes
