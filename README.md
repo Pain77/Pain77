@@ -32,7 +32,7 @@
 ### Spotify Music
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy?si=Ab-Tev2uQU21UtyztlSKBQ&context=spotify%3Aplaylist%3A0owFMC08AKVh4tSBrcSODG"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31dkzpbxnhgnx7iqi4nnjf64f2zq&cover_image=true&theme=default" /</a>
+  <a href="https://open.spotify.com/track/7jT3LcNj4XPYOlbNkPWNhU?si=7fc52f138b1047ed"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31dkzpbxnhgnx7iqi4nnjf64f2zq&cover_image=true&theme=default" /</a>
 </p>
 
 ------
