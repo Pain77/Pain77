@@ -1,5 +1,5 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics embed
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -9,16 +9,21 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: lowlighter/metrics@v3.32
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
@@ -26,39 +31,49 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading, characters
+          plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
           plugin_anilist_user: PA1NS4M4
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
           plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
+          plugin_fortune: yes
           plugin_gists: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_music: yes
+          plugin_music_limit: 1
+          plugin_music_mode: recent
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: ░P░A░I░N░
           plugin_notable: yes
           plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_projects: yes
+          plugin_projects_limit: 4
           plugin_skyline: yes
           plugin_skyline_compatibility: yes
-          plugin_skyline_frames: 90
-          plugin_skyline_quality: 1.0
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: {
+  "url": "https://skyline.github.com/${login}/${year}",
+  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+  "wait": 1,
+  "hide": "button, footer, a"
+}
+
           plugin_skyline_year: current-year
-          plugin_traffic: yes
+          plugin_support: yes
