@@ -32,7 +32,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_anilist: yes
@@ -54,13 +54,17 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_music: yes
-          plugin_music_limit: 1
-          plugin_music_played_at: yes
-          plugin_music_provider: spotify
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: ░P░A░I░N░
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
@@ -69,7 +73,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_compatibility: yes
           plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
+          plugin_skyline_quality: 1
           plugin_skyline_settings: {
   "url": "https://skyline.github.com/${login}/${year}",
   "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
