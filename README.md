@@ -45,4 +45,6 @@
   <a href="https://github.com/Pain77"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pain77&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p> 
     
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<p align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</p> 
