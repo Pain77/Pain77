@@ -41,7 +41,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: PA1NS4M4
+          plugin_anilist_user: Painsama
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_followup: yes
